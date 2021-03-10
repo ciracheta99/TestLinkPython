@@ -1,5 +1,6 @@
 print('Inside Case 1')
 self.logResult("Hi there")
+self.logResult("!")
 #ret = self.sendCommand("ifconfig")
 #self.logResult(ret)
 self.reportTCResults("p")
